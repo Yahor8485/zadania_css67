@@ -1,0 +1,45 @@
+p#pogrubione_azizau
+{
+  font-size:31px;
+  font-weight:900;
+  color:#955DC9;
+}
+
+p#pochylone_azizau
+{
+  font-style: italic;
+  font-size:36pt;
+  color:#F9B765;
+}
+
+p#index_gorny_azizau
+{
+  vertical-align:super;
+  font-size:1.1cm;
+  color:#A98F15;
+}
+
+p#index_dolny_azizau
+{
+  vertical-align:sub;
+  font-size:1.7cm;
+  color:rgb(18%,94%,88%);
+}
+p#mono_azizau
+{
+  font-size:44px;
+  color:#15DD68;
+}
+
+
+p#powiekszenie_azizau
+{
+  font-size:30px;
+  color:#4F3D9A;
+}
+
+p#pomniejszenie_azizau
+{
+  font-size:32px;
+  color:rgb(70%,63%,21%);
+}
